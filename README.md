@@ -1,1 +1,1 @@
-# get-zenyora-ios
+# Zenyora (for macOS)
